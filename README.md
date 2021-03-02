@@ -19,4 +19,6 @@ Description of the source of data
 
 Questions they hope to answer with the data
 
+## Machine Learning Model
+
 ## Communication Protocols
