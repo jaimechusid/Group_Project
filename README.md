@@ -12,5 +12,8 @@ This project aims to develop a structural model to explain COVID-19 merchandisin
 ###### Dataset
 ###### Limitations Of The Dataset
 ## Presentation of Findings
+
+https://docs.google.com/presentation/d/1eBiPX1MbgIxgaCXbjj8aKt69UYrkosCyiv5ONSZNkog/edit?usp=sharing
+
 ## Limitations Of Study
 ## Future Work
